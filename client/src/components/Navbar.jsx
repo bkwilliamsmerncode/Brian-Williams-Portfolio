@@ -1,19 +1,34 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from "react-router-dom";
 import "./NavbarStyle.css";
-
+import {FaBars, FaTimes} from "react-icons/fa";
 
 
 const Navbar = () => {
 
+const [modal, setModal] = useState(false)
+const [color, setColor] = useState(false)
 
+const handleModal = () => {
+    setModal(prev => !prev)
+}
+
+const  handleColor = () => {
+    if(window.scrollY >= 100) {
+        setColor(true);
+    } else {
+      setColor(false)  
+    }
+};
+
+window.addEventListener("scroll", handleColor)
 
   return (
-    <div className="header">
+    <div className={color ? "header header-bg" : "header"}>
     <Link to="/">
 <h1>Portfolio</h1>
     </Link>
-    <ul className="nav-menu">
+    <ul className={modal ? "nav-menu active" : "nav-menu"}>
         <li>
             <Link to="/">Home</Link>
         </li>
@@ -30,11 +45,11 @@ const Navbar = () => {
             <Link to="/Contact">Contact</Link>
         </li>
     </ul>
-   
+    <div className='hamburger' onClick={() => handleModal()}>
+        {modal ? (<FaTimes size={20} style={{color: "#fff"}}/>) : (<FaBars size={20} style={{color: "#fff"}}/>)}
         
         
-        
-    
+    </div>
     </div>
   )
 }
