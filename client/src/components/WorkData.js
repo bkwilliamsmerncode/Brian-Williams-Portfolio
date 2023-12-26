@@ -32,8 +32,8 @@ const projectCardData = [
         imgsrc: Clock,
         title: 'Build A Pomodoro Clock',
         text: "In this project I built a fully functional Pomodoro clock where you work for so long then you take a break for so long before you go back to work.",
-        view: "",
-        source: ""
+        view: "https://bkwilliamsmerncode.github.io/Calculator",
+        source: "https://github.com/bkwilliamsmerncode/Calculator"
     },
     {
         imgsrc: RealEstate,
