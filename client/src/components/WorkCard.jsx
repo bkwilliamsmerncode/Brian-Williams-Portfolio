@@ -12,8 +12,8 @@ function WorkCard(props) {
     <div className="pro-details">
         <p>{props.text}</p>
         <div className='pro-btns'>
-            <NavLink to=" bkwilliamsmerncode.github.io/Calculator/" className="btn">VIEW</NavLink>
-            <NavLink to="https://github.com/bkwilliamsmerncode/Calculator" className="btn">SOURCE</NavLink>
+            <NavLink to={props.view} className="btn">VIEW</NavLink>
+            <NavLink to={props.source} className="btn">SOURCE</NavLink>
         </div>
     </div>
 </div>
