@@ -7,8 +7,8 @@ import RealEstate from "../assets/RealEstate.png"
 const projectCardData = [
     {
         imgsrc: gofundme,
-        title: 'Go Fund Me Website Design',
-        text: "In this project we gave an exsample of a go fund me wesite that was selling monitor risers to earn money for a start up.",
+        title: 'CrowdFund Website',
+        text: "In this project I used useState and data from a JSON file to dynamically render data onto a web page with this go fund me clone.",
         view: "",
         source: ""
     },
@@ -23,7 +23,7 @@ const projectCardData = [
     {
         imgsrc: calculator,
         title: 'Fully Functional Calculator',
-        text: "In this project I designed a fully functional calculator using a lot of javascript before I found out about the eval method that could have saved time.",
+        text: "In this project I designed a fully functional calculator using useEffect, a switch statement, and useState opened up into an object with key value pairs.",
         view: "https://bkwilliamsmerncode.github.io/Calculator",
         source: "https://github.com/bkwilliamsmerncode/Calculator"
     }
