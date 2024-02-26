@@ -16,10 +16,31 @@ const projectCardData = [
         imgsrc: RealEstate,
         title: 'Real Estate Website',
         text: "In this project I made a clone of a Real estate website were I used framer motion, swiper, accordion, and count up librarys to make this app functional.",
-        view: "",
-        source: ""
+        view: "https://bkwilliamsmerncode.github.io/Real-Estate",
+        source: "https://github.com/bkwilliamsmerncode/Real-Estate"
     },
 
+    {
+        imgsrc: calculator,
+        title: 'Fully Functional Calculator',
+        text: "In this project I designed a fully functional calculator using useEffect, a switch statement, and useState opened up into an object with key value pairs.",
+        view: "https://bkwilliamsmerncode.github.io/Calculator",
+        source: "https://github.com/bkwilliamsmerncode/Calculator"
+    },
+    {
+        imgsrc: calculator,
+        title: 'Fully Functional Calculator',
+        text: "In this project I designed a fully functional calculator using useEffect, a switch statement, and useState opened up into an object with key value pairs.",
+        view: "https://bkwilliamsmerncode.github.io/Calculator",
+        source: "https://github.com/bkwilliamsmerncode/Calculator"
+    },
+    {
+        imgsrc: calculator,
+        title: 'Fully Functional Calculator',
+        text: "In this project I designed a fully functional calculator using useEffect, a switch statement, and useState opened up into an object with key value pairs.",
+        view: "https://bkwilliamsmerncode.github.io/Calculator",
+        source: "https://github.com/bkwilliamsmerncode/Calculator"
+    },
     {
         imgsrc: calculator,
         title: 'Fully Functional Calculator',
