@@ -44,6 +44,9 @@ window.addEventListener("scroll", handleColor)
         <li>
             <Link to="/Contact">Contact</Link>
         </li>
+        <li>
+            <Link to="/Resume">Resume</Link>
+        </li>
     </ul>
     <div className='hamburger' onClick={() => handleModal()}>
         {modal ? (<FaTimes size={20} style={{color: "#fff"}}/>) : (<FaBars size={20} style={{color: "#fff"}}/>)}
