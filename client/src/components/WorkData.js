@@ -38,8 +38,8 @@ const projectCardData = [
     },
     {
         imgsrc: Tenzies,
-        title: 'Fully Functional Calculator',
-        text: "In this project I designed a fully functional Tenzies game using useEffect, useState, uuid and other react best practices ",
+        title: 'Tenzies Game',
+        text: "In this project I designed a fully functional Tenzies game using useEffect, useState, uuid and other react best practices to build this fun game! ",
         view: "https://bkwilliamsmerncode.github.io/Tenzies/",
         source: "https://github.com/bkwilliamsmerncode/Tenzies"
     },

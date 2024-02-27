@@ -1,0 +1,10 @@
+.summary {
+    width: 95%;
+ color: white;
+ line-height: 2rem;
+ margin: 20px;
+}
+
+li::marker {
+    color: white;
+  }
