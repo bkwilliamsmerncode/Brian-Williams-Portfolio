@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Brian-Williams-Portfolio/static/css/main.2ed961e5.css",
-    "main.js": "/Brian-Williams-Portfolio/static/js/main.a76ec256.js",
+    "main.js": "/Brian-Williams-Portfolio/static/js/main.7b8d4c7e.js",
     "static/media/hacker2.png": "/Brian-Williams-Portfolio/static/media/hacker2.a4dba119f572e78a55f4.png",
     "static/media/gym.png": "/Brian-Williams-Portfolio/static/media/gym.56700a540fc56db665ac.png",
     "static/media/RealEstate.png": "/Brian-Williams-Portfolio/static/media/RealEstate.95b618bd165cb0f06dab.png",
@@ -22,10 +22,10 @@
     "static/media/calculator.png": "/Brian-Williams-Portfolio/static/media/calculator.748999fd48b91bd4228b.png",
     "index.html": "/Brian-Williams-Portfolio/index.html",
     "main.2ed961e5.css.map": "/Brian-Williams-Portfolio/static/css/main.2ed961e5.css.map",
-    "main.a76ec256.js.map": "/Brian-Williams-Portfolio/static/js/main.a76ec256.js.map"
+    "main.7b8d4c7e.js.map": "/Brian-Williams-Portfolio/static/js/main.7b8d4c7e.js.map"
   },
   "entrypoints": [
     "static/css/main.2ed961e5.css",
-    "static/js/main.a76ec256.js"
+    "static/js/main.7b8d4c7e.js"
   ]
 }
