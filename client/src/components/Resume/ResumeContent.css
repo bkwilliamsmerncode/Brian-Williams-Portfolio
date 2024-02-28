@@ -3,8 +3,7 @@
  color: white;
  line-height: 2rem;
  margin: 20px;
+ text-align: center;
+ color: rgb(0, 255, 0);
 }
 
-li::marker {
-    color: white;
-  }

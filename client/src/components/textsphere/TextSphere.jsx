@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 
 
 
@@ -10,11 +10,11 @@ import TagCloud from "TagCloud";
 
 const TextShpere = () => {
 
-  
+   const [tagCloud, setTagCloud] = useState(null)
 
   // Animation settings for Text Cloud
   useEffect(() => {
-   
+  setTagCloud(true)
     return () => {
       
       const container = ".tagcloud";
@@ -43,7 +43,7 @@ const TextShpere = () => {
 
       TagCloud(container, texts, options);
     };
-  }, []);
+  }, [tagCloud]);
 
   return (
     <>
