@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Brian-Williams-Portfolio/static/css/main.2ed961e5.css",
+    "main.js": "/Brian-Williams-Portfolio/static/js/main.a76ec256.js",
+    "static/media/hacker2.png": "/Brian-Williams-Portfolio/static/media/hacker2.a4dba119f572e78a55f4.png",
+    "static/media/gym.png": "/Brian-Williams-Portfolio/static/media/gym.56700a540fc56db665ac.png",
+    "static/media/RealEstate.png": "/Brian-Williams-Portfolio/static/media/RealEstate.95b618bd165cb0f06dab.png",
+    "static/media/mongodb2.png": "/Brian-Williams-Portfolio/static/media/mongodb2.ac3cee931fa72ac15c65.png",
+    "static/media/reactjs2.png": "/Brian-Williams-Portfolio/static/media/reactjs2.71d280d951511a5dc502.png",
+    "static/media/crypto.png": "/Brian-Williams-Portfolio/static/media/crypto.a6909b89c14b1ff6338a.png",
+    "static/media/jquery.jpg": "/Brian-Williams-Portfolio/static/media/jquery.b7723fbf0d4c638814c8.jpg",
+    "static/media/react.png": "/Brian-Williams-Portfolio/static/media/react.973492efe7d882800a5a.png",
+    "static/media/es6.jpg": "/Brian-Williams-Portfolio/static/media/es6.a55e3722c9f820038839.jpg",
+    "static/media/passcode.png": "/Brian-Williams-Portfolio/static/media/passcode.4b7aad092bd952fa0da0.png",
+    "static/media/node.png": "/Brian-Williams-Portfolio/static/media/node.484d29262578782d8ff3.png",
+    "static/media/mongo.png": "/Brian-Williams-Portfolio/static/media/mongo.283c25786301a7b1433e.png",
+    "static/media/github.png": "/Brian-Williams-Portfolio/static/media/github.bff373277c874920ee09.png",
+    "static/media/html.png": "/Brian-Williams-Portfolio/static/media/html.41db70f3f14df7c12ebd.png",
+    "static/media/materialui.png": "/Brian-Williams-Portfolio/static/media/materialui.df964212bc9bfd102063.png",
+    "static/media/css.png": "/Brian-Williams-Portfolio/static/media/css.f49f5017ba498ed5b246.png",
+    "static/media/Tenzies.png": "/Brian-Williams-Portfolio/static/media/Tenzies.fc033c963bd4479db56d.png",
+    "static/media/calculator.png": "/Brian-Williams-Portfolio/static/media/calculator.748999fd48b91bd4228b.png",
+    "index.html": "/Brian-Williams-Portfolio/index.html",
+    "main.2ed961e5.css.map": "/Brian-Williams-Portfolio/static/css/main.2ed961e5.css.map",
+    "main.a76ec256.js.map": "/Brian-Williams-Portfolio/static/js/main.a76ec256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ed961e5.css",
+    "static/js/main.a76ec256.js"
+  ]
+}
