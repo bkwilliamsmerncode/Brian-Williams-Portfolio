@@ -36,7 +36,7 @@ const ResumeContent = () => {
         <p>October 2023 - Present</p>
         <ul>
           <li>
-            Developed responsive web applications fromm scratch, ensuring
+            Developed responsive web applications from scratch, ensuring
             cross-browser compatibility and mobile responsiveness.
           </li>
           <li>
