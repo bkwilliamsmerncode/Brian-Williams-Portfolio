@@ -1,9 +1,21 @@
 .summary {
-    width: 95%;
- color: white;
- line-height: 2rem;
- margin: 20px;
- text-align: center;
- color: rgb(0, 255, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  color: white;
+  line-height: 2rem;
+  padding: 20px;
+  text-align: center;
 }
 
+h2,
+h3 {
+  color: rgb(0, 255, 0);
+  margin: 5px;
+}
+
+ul {
+  font-size: large;
+}
