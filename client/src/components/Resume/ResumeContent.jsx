@@ -50,7 +50,7 @@ const ResumeContent = () => {
         </ul>
         <br />
         <h3>Caption Call, Tucson, AZ - Team Lead Supervisor</h3>
-        <p>October 2016 - Present</p>
+        <p>October 2016 - February 2022</p>
         <ul>
           <li>
             {" "}

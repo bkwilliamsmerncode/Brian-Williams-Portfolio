@@ -9,26 +9,25 @@
     height: auto;
 }
 
-.row1 {
+.skillrows {
 display: flex;
-}
 
-.row2{
-    display: flex; 
-}
-
-.row3 {
-    display: flex;
 }
 
 .imgLogo {
     width: 100px;
     height: 100px;
-    margin: 10px;
+   margin: 10px 40px 10px 40px;
     padding: 10px;
 }
 
 .imgLogo:hover {
 width: 125px;
 height: 125px;
+}
+
+@media screen and (max-width: 800px )  {
+    .imgLogo {
+        margin: 10px;
+    }
 }

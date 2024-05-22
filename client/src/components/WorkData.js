@@ -4,6 +4,7 @@ import RealEstate from "../assets/RealEstate.png";
 import gym from "../assets/gym.png";
 import Tenzies from "../assets/Tenzies.png";
 import passcode from "../assets/passcode.png";
+import BBBY from "../assets/BBBY.png";
 
 const projectCardData = [
   {
@@ -42,11 +43,11 @@ const projectCardData = [
     source: "https://github.com/bkwilliamsmerncode/Tenzies",
   },
   {
-    imgsrc: passcode,
-    title: "Passcode",
-    text: "I crafted a secure passcode login system, akin to the authentication process on mobile phones. Turning the passcode field red upon incorrect entries and green upon successful authentication. ",
-    view: "https://bkwilliamsmerncode.github.io/passcode/",
-    source: "https://github.com/bkwilliamsmerncode/passcode",
+    imgsrc: BBBY,
+    title: "Yoga Website",
+    text: "In this real world project I built a Web responsive Landing page for Dr. Donna Jagielski Yoga buisness using React best practices and dynamic features along with Email.js. ",
+    view: "http://www.blessingsbalancebreathyoga.com/",
+    source: "https://github.com/bkwilliamsmerncode/blessingsbalancebreathyoga",
   },
 ];
 
