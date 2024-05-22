@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "228923ae76c60926a38b80864541bf04",
+    "revision": "e52739d2ee8536cc79405dae04efe1b8",
     "url": "/Brian-Williams-Portfolio/index.html"
   },
   {
-    "revision": "6ee93e49576034e2ad8e",
-    "url": "/Brian-Williams-Portfolio/static/css/main.2814e9bf.chunk.css"
+    "revision": "5af0d79705ff7e7fb660",
+    "url": "/Brian-Williams-Portfolio/static/css/main.ffbd56f8.chunk.css"
   },
   {
     "revision": "db702b2536d5543ef463",
     "url": "/Brian-Williams-Portfolio/static/js/2.b5a9bd87.chunk.js"
   },
   {
-    "revision": "6ee93e49576034e2ad8e",
-    "url": "/Brian-Williams-Portfolio/static/js/main.30964d6c.chunk.js"
+    "revision": "5af0d79705ff7e7fb660",
+    "url": "/Brian-Williams-Portfolio/static/js/main.cd221935.chunk.js"
   },
   {
     "revision": "105bbf6960c9e607bf12",
     "url": "/Brian-Williams-Portfolio/static/js/runtime~main.9fe5e841.js"
+  },
+  {
+    "revision": "a4cbde89554acbbf738f1c00b75799b0",
+    "url": "/Brian-Williams-Portfolio/static/media/BBBY.a4cbde89.png"
   },
   {
     "revision": "ba5e10ff92b765620a1c9530a462d5ca",
