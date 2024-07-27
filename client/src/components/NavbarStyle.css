@@ -21,6 +21,7 @@
   
   .nav-menu li {
     padding: 0 1rem;
+    list-style-type: none;
   }
   
   .nav-menu li a {

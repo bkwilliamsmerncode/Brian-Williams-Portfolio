@@ -1,5 +1,4 @@
 import "./HeroStyle.css";
-import hacker from "../assets/hacker2.png";
 import { Link } from "react-router-dom";
 import Vid from "../assets/herovid.mp4"
 
