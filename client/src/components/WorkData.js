@@ -3,7 +3,6 @@ import calculator from "../assets/calculator.png";
 import RealEstate from "../assets/RealEstate.png";
 import gym from "../assets/gym.png";
 import Tenzies from "../assets/Tenzies.png";
-import passcode from "../assets/passcode.png";
 import BBBY from "../assets/BBBY.png";
 
 const projectCardData = [

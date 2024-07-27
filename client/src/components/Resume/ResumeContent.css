@@ -1,21 +1,58 @@
-.summary {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+.resume-container {
   width: 100%;
-  color: white;
-  line-height: 2rem;
-  padding: 20px;
-  text-align: center;
+  padding: 4rem 1rem;
+  background: #f0f0f0;
+  color: #333;
+  line-height: 1.6rem;
+  font-family: 'Arial', sans-serif;
 }
 
-h2,
+h2 {
+  color: #0073e6;
+  border-bottom: 2px solid #0073e6;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
 h3 {
-  color: rgb(0, 255, 0);
-  margin: 5px;
+  color: #0073e6;
+  margin: 10px 0;
+  font-size: 1.2rem;
+}
+
+.resume-container p {
+  color: #333;
+  margin: 10px 0;
 }
 
 ul {
-  font-size: large;
+  list-style-type: disc;
+  margin: 10px 0 20px 20px;
+}
+
+.summary, .skills, .work-experience, .education {
+  margin-bottom: 40px;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.job, .education-item {
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 800px) {
+  .resume-container {
+    padding: 2rem 1rem;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+
+  h3 {
+    font-size: 1rem;
+  }
 }
