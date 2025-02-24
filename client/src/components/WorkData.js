@@ -1,5 +1,5 @@
 import crypto from "../assets/crypto.png";
-import calculator from "../assets/calculator.png";
+import nike from "../assets/nike.png";
 import RealEstate from "../assets/RealEstate.png";
 import gym from "../assets/gym.png";
 import Tenzies from "../assets/Tenzies.png";
@@ -28,11 +28,11 @@ const projectCardData = [
     source: "https://github.com/bkwilliamsmerncode/crypto-currency",
   },
   {
-    imgsrc: calculator,
-    title: "Fully Functional Calculator",
-    text: "I crafted a robust calculator application, utilizing useEffect, a switch statement, and state management through the useState hook structured as an object with key-value pairs.",
-    view: "https://bkwilliamsmerncode.github.io/Calculator",
-    source: "https://github.com/bkwilliamsmerncode/Calculator",
+    imgsrc: nike,
+    title: "Nike Clone Website",
+    text: "I built this Nike clone website that links you to the real website using Vite and Tailwind.css, I used js files instead of real API's to simulate a full stack website.",
+    view: "https://bkwilliamsmerncode.github.io/nike/",
+    source: "https://github.com/bkwilliamsmerncode/nike",
   },
   {
     imgsrc: Tenzies,
