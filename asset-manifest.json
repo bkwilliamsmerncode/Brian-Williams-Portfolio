@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/Brian-Williams-Portfolio/static/css/main.6d679194.css",
-    "main.js": "/Brian-Williams-Portfolio/static/js/main.13eb4790.js",
+    "main.js": "/Brian-Williams-Portfolio/static/js/main.cf5e68e4.js",
     "static/media/herovid.mp4": "/Brian-Williams-Portfolio/static/media/herovid.7d1ea6a94986d5c2a068.mp4",
     "static/media/gym.png": "/Brian-Williams-Portfolio/static/media/gym.56700a540fc56db665ac.png",
     "static/media/RealEstate.png": "/Brian-Williams-Portfolio/static/media/RealEstate.95b618bd165cb0f06dab.png",
     "static/media/BBBY.png": "/Brian-Williams-Portfolio/static/media/BBBY.1501bf460ef4b7cfe034.png",
+    "static/media/nike.png": "/Brian-Williams-Portfolio/static/media/nike.30d6b66ea574651df2f8.png",
     "static/media/mongodb2.png": "/Brian-Williams-Portfolio/static/media/mongodb2.ac3cee931fa72ac15c65.png",
     "static/media/reactjs2.png": "/Brian-Williams-Portfolio/static/media/reactjs2.71d280d951511a5dc502.png",
     "static/media/crypto.png": "/Brian-Williams-Portfolio/static/media/crypto.a6909b89c14b1ff6338a.png",
@@ -19,13 +20,12 @@
     "static/media/materialui.png": "/Brian-Williams-Portfolio/static/media/materialui.df964212bc9bfd102063.png",
     "static/media/css.png": "/Brian-Williams-Portfolio/static/media/css.f49f5017ba498ed5b246.png",
     "static/media/Tenzies.png": "/Brian-Williams-Portfolio/static/media/Tenzies.fc033c963bd4479db56d.png",
-    "static/media/calculator.png": "/Brian-Williams-Portfolio/static/media/calculator.748999fd48b91bd4228b.png",
     "index.html": "/Brian-Williams-Portfolio/index.html",
     "main.6d679194.css.map": "/Brian-Williams-Portfolio/static/css/main.6d679194.css.map",
-    "main.13eb4790.js.map": "/Brian-Williams-Portfolio/static/js/main.13eb4790.js.map"
+    "main.cf5e68e4.js.map": "/Brian-Williams-Portfolio/static/js/main.cf5e68e4.js.map"
   },
   "entrypoints": [
     "static/css/main.6d679194.css",
-    "static/js/main.13eb4790.js"
+    "static/js/main.cf5e68e4.js"
   ]
 }
